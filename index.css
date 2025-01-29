@@ -1,0 +1,39 @@
+.bg-container{
+    background-color: black;
+}
+
+.bulb-image{
+    height:200px;
+    width:130px;
+}
+
+.cat-image{
+    height:250px;
+    width:200px;
+}
+
+.swith-board{
+    background-color: rgb(156, 154, 154);
+    margin:25px;
+    padding:35px;
+    border-radius:10px;
+}
+
+.switch-heading{
+    color: white;
+    font-size:22px;
+
+}
+
+.off-switch{
+    background-color: red;
+    color:white;
+    padding:5px;
+    width:50px;
+}
+.on-switch{
+    background-color: rgb(184, 179, 179);
+    color:white;
+    padding:5px;
+    width:50px;
+}
